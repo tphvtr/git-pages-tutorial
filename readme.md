@@ -13,3 +13,5 @@ git push --set-upstream origin master
 !IMPORTANT!
 
 index.html should be in the root
+
+Demo: https://tphvtr.github.io/git-pages-tutorial/
