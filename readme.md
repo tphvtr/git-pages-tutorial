@@ -5,3 +5,11 @@
 git add .
 git commit -m "first commit"
 git push --set-upstream origin master
+5. Click on "Settings" in your repo
+6. Go to "Pages" tab
+7. Choose source branch, for ex. "master"
+8. After ~1 min you'll see a notification with the link to your deployed site
+
+!IMPORTANT!
+
+index.html should be in the root
